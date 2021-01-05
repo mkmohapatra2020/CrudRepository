@@ -12,7 +12,7 @@ public class JavaApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome to java techi";
+		return "Welcome to java techiee";
 	}
 
 	@GetMapping("/{input}")
